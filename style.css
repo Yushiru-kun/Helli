@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+legend{
+  font-weight:bold;
+  color:aqua;
+}
+fieldset{
+  border-radius:5px;
+  box-shadow:2px 2px 3px gray;
+}
+input{
+  border-radius:5px;
+  box-shadow:2px 2px 3px gray;
+}
